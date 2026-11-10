@@ -1,4 +1,4 @@
-# Freshfood Client
+# FreshFood Client
 
 Freshfood Client is a React application built with TypeScript, Vite, and Tailwind CSS.
 
